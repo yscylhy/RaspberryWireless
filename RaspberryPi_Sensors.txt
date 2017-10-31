@@ -1,0 +1,68 @@
+URL:
+https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/
+
+Summary:
+1) Temperature and Humidity:
+	1, DHT22 is more accurate than DHT22.	<5$
+	2, DS18B20 and DS18S20: Only temperature. Wide range and water resistant version.	<5$
+	3, BMP180: Barometer, aire pressure.	<10$
+	4, Analog moisture sensor: An ADC sensor is needed. Good or irrigation system. <10$
+	5, Capacitive moisture sensor: more accurate. <10$
+	6, Gas sensor: methane, butane, LPG, smoke, alcohol and so on. ADC is needed. <5$.
+2) Motion sensor:
+	1, PIR motion sensor: Send signal only if things move.	<5$
+	2, HC-SR04: Ultrasonic sensor. A rough distance estimation. <5$
+	3, Magnetic switch: good for inspecting if windows or doors are closed. < 5$.
+	4, GP2Y0A02YK: Infrared distance meter: 20-150cm. Other modules for longer distance available.	<20$.
+	5, RFID-RC522: Inductive RFID card reader. 	<5$.
+3) Navigation module:
+	1, GPS NEO-6M: GPS receivers. GPIO connection. <10$
+	2, USB GPS receiver. Also works with Windows, Linux and Mac.	<20$
+	3, MPU-6050: Gyroscope and acceleration. Rotation along three directions.	<5$
+	4, HMC5883L/GY-271: Compass.	<5$.
+	5, DS1307 RTC: Realtime clock. Useful when no power or internet connection. <5$
+4) Wireless/Infrared/Bluetooth
+	1, 433 MHz Set: Radio transmitter and receiver. 	<5$
+	2, 2.4 GHz NRF24L01+ Module: Radio set. Transmit more data. <5$
+	3, Radio controlled outlets/Power sockets: Usually works on 433 MHz. Useful for smart home	<20$.
+	4, Si4703 Radio receiver: General radio receiver.	<10$.
+	5, GSM Surfstick: With a SIM car, the Pi can be always online.	<50$.
+	6, Infrared diodes: transmit signals, such as control a TV. 	<5$.
+	7, Laser Module: Distances measure or with camera for fun things. Not accurate.	<2$	
+5) Motors.
+6) Analogous Sensors
+	1, MCP3008: ADC. Raspberry Pi does not have analog IP pins.	<5$
+	2, Joystick.	<10$.
+	3, Raindrop sensor.	<5$.
+	4, Heartbeat/Pulse Sensor. <10$.
+7) Power/Current Supply
+8) Displays
+	1, Official 7’’ touchscreen. Capacitive.	70$
+	2, 3.2’’ resistive touchscreen.	< 10$
+	3, Character displays. 	< 5$
+	4, 7 Segment display. <5$
+9) Others.
+	1) Optical Fingerprint Sensor.	30$
+	2) Other cheaper micro-controller, such as Arduino.	<10$
+	3) Water/Gas flowmeter.	<20$
+	4) Weighting Sensor.	<10$
+	5) Photoresistors. 	1$.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
