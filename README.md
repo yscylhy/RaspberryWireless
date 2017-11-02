@@ -3,3 +3,7 @@ When the RaspberryPi starts, an email that constains the IP of the Pi is send to
 
 - mail server:
   msmtp
+
+
+## Some notes
+crontab -e is different for each user. Therefore, "sudo crontab -e" and "crontab -e" give different daemon lists.
