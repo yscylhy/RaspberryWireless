@@ -21,4 +21,4 @@
 # 
 # m h  dom mon dow   command
 @reboot sleep 30 && /home/pi/boot_reportd.sh
-1 * * * * /home/pi/regular_reportd.sh
+1 23 * * * /home/pi/regular_reportd.sh
